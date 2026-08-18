@@ -14,6 +14,4 @@ Prerequisites
 ---------------------------------
 Java 17+ | MySQL Server | Maven 4.1+
 ----------------------------------------
-Run the Project
-mvn clean install
-mvn exec:java
+Run the Project | mvn clean install | mvn exec:java
