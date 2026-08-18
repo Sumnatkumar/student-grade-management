@@ -1,3 +1,3 @@
 # student-grade-management
 
-![Student Grade Management](https://raw.githubusercontent.com/Sumnment/main/student-grade-management.png
+![Student Grade Management System](https://github.com/Sumnatkumar/student-grade-management/blob/main/student-grade-management.png)
