@@ -3,7 +3,24 @@
 ![Student Grade Management System](https://github.com/Sumnatkumar/student-grade-management/blob/main/student-grade-management.png)
 
 ## Tech Stack 
-https://img.shields.io/badge/Java-17-orange 
-https://img.shields.io/badge/MySQL-Database-blue 
-https://img.shields.io/badge/Maven-Build%20Tool-red 
-https://img.shields.io/badge/Interface-CLI-green
+-------------------------------
+Java 17
+MySQL
+Maven
+Command Line Interface (CLI)
+---------------------------------------------------
+Features
+Manage Students
+Manage Grades
+View Student Reports
+View All Students
+Menu-driven CLI application
+--------------------------------
+Prerequisites
+Java 17+
+MySQL Server
+Maven 4.1+
+----------------------------------------
+Run the Project
+mvn clean install
+mvn exec:java
