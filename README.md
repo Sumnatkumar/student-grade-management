@@ -2,6 +2,7 @@
 
 ![Student Grade Management System](https://github.com/Sumnatkumar/student-grade-management/blob/main/student-grade-management.png)
 
+
 ## Tech Stack 
 -------------------------------
 Java 17 | MySQL | Maven | Command Line Interface (CLI)
